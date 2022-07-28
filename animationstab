@@ -1,0 +1,43 @@
+-- for animations tab
+-- meditating animation
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/animation/main/meditating'))()
+
+-- for animations tab
+-- Mage animation
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/animationz/main/Mageanimatoion'))()
+
+-- for animations tab
+-- FE Creepy Crawler
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/-FeCreepyCrawler/main/anice'))()
+
+-- for animations tab
+-- FE skinwalker
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KRNL2/skinwalker/main/FEE'))()
+
+-- for admins tab
+-- reviz admin
+loadstring(game:HttpGet("https://pastebin.com/raw/KNUzQPYS"))()
+
+
+-- for admins tab
+-- CMD-X
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+
+-- for admins tab
+-- Infinite Yield
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+
+-- for admin tabs
+-- Shattervest admin
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KRNL2/Shattervast-Admin/main/fe")) ()
+
+-- for admins tabs
+-- Reviz admins
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/KRNL2/revizz/main/adminfe'),true))()
+
+-- for admins tabs
+-- Fates admins
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+
+-- SRM Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bebedi15/SRM-Scripts/main/Bebedi9960/SRMHub"))()
